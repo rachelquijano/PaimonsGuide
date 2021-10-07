@@ -1,4 +1,4 @@
-# PaimonsGuide
+# Paimons Guide
 Passion Project Mobile Application
 
 In the works... :)
