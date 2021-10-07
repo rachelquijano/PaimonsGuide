@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paimon\'s Guide</string>
+    <string name="title_home">Home</string>
+    <string name="title_characters">Characters</string>
+    <string name="title_calendar">Calendar</string>
+
+</resources>
